@@ -1,0 +1,30 @@
+{
+  "name": "s786s-cli-calculator",
+  "version": "1.0.1",
+  "description": "A simple CLI calculator application built with JavaScript. Allows users to perform basic arithmetic operations through the command line interface.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "CLI",
+  "calculator",
+  "command-line",
+  "math",
+  "arithmetic",
+  "node",
+  "javascript",
+  "calculator with functions",
+  "functions"
+],
+  "author": "Muhammad Shabbir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
